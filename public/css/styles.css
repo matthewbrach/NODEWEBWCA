@@ -6061,12 +6061,17 @@ button[type="submit"]:hover {
 .partnership-opportunities {
   list-style-type: none; /* Removes default list styling */
   padding: 0;
-  margin: 0;
+  margin-top: 5px;
+ 
   text-align: left;
   color: #2f559d;
 }
+
 .partnership-opportunities li {
   margin-bottom: 20px; /* Increases spacing between items */
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 100px;;
 }
 
 hr {
